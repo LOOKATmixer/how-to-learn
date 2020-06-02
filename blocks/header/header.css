@@ -5,6 +5,7 @@
 @import url(./__square-pic/header__square-pic.css);
 
 .header {
+  margin: 0 auto;
   position: relative;
   display: flex;
   flex-direction: column;
